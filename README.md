@@ -1,3 +1,5 @@
+Note: This tool is high experimental and gives no gaurentees.
+
 ## Description
 A small "gcloud"-based script that prints some usage stats about Artifact Registry for a given project. This script may be most useful for observing Artifact Registry stats during a migration.
 
